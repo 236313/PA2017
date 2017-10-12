@@ -7,7 +7,7 @@ Temat projektu B [link do projektu na github]
 3	Górecki	Jakub Wiktor
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof
-6	Kuśmierek	Dominik Patryk
+6	Kuśmierek	Dominik Patryk Temat projektu A [Gra]
 7	Lebiedzińska	Paulina Dorota
 8	Łagoda	Bartosz Andrzej
 9	Marek	Marcin 
