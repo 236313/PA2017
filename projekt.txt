@@ -7,7 +7,7 @@ Temat projektu B [link do projektu na github]
 3	Górecki	Jakub Wiktor A: Milionerzy [https://github.com/qba97x/Projektv1] Projekt A: Tic Tac Toe [https://github.com/qba97x/Projektv1]
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof          A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
-6	Kuśmierek	Dominik Patryk
+6	Kuśmierek	Dominik Patryk       A: Symulator "Lotto" (C#) [https://github.com/236313/Dominik]
 7	Lebiedzińska	Paulina Dorota   A: Database in Windows Forms Application (C++)
 8	Łagoda	Bartosz Andrzej        A: Gra "Rozpoznaj instrument" [https://github.com/bartoszlagoda/Rozpoznaj-instrument]
 9	Marek	Marcin 
