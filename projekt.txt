@@ -19,6 +19,8 @@ Temat projektu B [link do projektu na github]
   A: Gra "Pong" (C++) [https://github.com/jasiugruszka/GRUSZKA-PONG]
 
 6	Kuśmierek	Dominik Patryk
+  A: Symulator Lotto (C#) [https://github.com/236313/Lotto]
+  B: Gra Waves (Java) [https://github.com/236313/Waves]
 
 7	Lebiedzińska	Paulina Dorota   
   A: Zgadnij hasło C# [https://github.com/paulinalebiedzinska/projekt_1]
